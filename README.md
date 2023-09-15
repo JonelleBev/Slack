@@ -1,0 +1,2 @@
+# Slack
+GPTBot for Slack
